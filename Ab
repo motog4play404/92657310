@@ -1,0 +1,7 @@
+echo "# 92657310" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/motog4play404/92657310.git
+git push -u origin main
